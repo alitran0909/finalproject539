@@ -59,6 +59,9 @@ body{
 /*introduction portions*/
 /*heading*/
 
+.auto-type{
+    font-size: 80px;
+}
 .container h1{
     font-size: 25px;
     text-align: center;
